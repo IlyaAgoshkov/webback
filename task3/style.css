@@ -4,7 +4,7 @@ body {
     align-items: center;
     flex-direction: column;
     min-height: 98vh;
-    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(214,143,136,1) 0%, rgba(255,251,0,1) 100%);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgb(125, 212, 164) 0%, rgb(33, 213, 236) 100%);
     font-family: Montserrat;
 }
 
